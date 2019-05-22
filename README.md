@@ -1,4 +1,4 @@
-# Map out a technical solution for the food delivery site ExpressFood
+# Map Out a Technical Solution for the Food Delivery Site ExpressFood
 
 **UML diagram** and **MySQL Database**
 
