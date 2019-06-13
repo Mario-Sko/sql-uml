@@ -2,6 +2,7 @@
 
 **UML diagram** and **MySQL Database**
 
+This is my project from the Unit 4 of my frond-end developer study at the Openclassrooms.
 
 It will need to contain:
 
